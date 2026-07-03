@@ -27,10 +27,10 @@ The analysis includes:
 
 ## Key Insights
 
-- Tesla showed long-term growth in both revenue and stock price.
-- GameStop's stock price experienced high volatility despite limited revenue growth.
-- The 30-Day Moving Average helped identify long-term stock trends by reducing daily price fluctuations.
-
+- Tesla demonstrated a long-term upward trend in both revenue and stock price, indicating strong business growth and increasing investor confidence.
+- GameStop's stock price experienced significant volatility despite limited revenue growth, suggesting that market sentiment played a major role in its stock performance.
+- The 30-Day Moving Average effectively reduced short-term price fluctuations, making it easier to identify long-term market trends for both companies.
+- Comparing stock prices with company revenue highlights that while financial performance can influence stock prices, market sentiment and external factors also have a significant impact.
 ---
 
 ## Repository Structure
