@@ -33,16 +33,6 @@ The analysis includes:
 - Comparing stock prices with company revenue highlights that while financial performance can influence stock prices, market sentiment and external factors also have a significant impact.
 ---
 
-## Repository Structure
-
-```
-Stock-Price-and-Revenue-Analysis/
-│
-├── Extracting and Visualizing Stock Data.ipynb
-├── README.md
-```
-
----
 
 ## Conclusion
 
